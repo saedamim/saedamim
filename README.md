@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.jpeg" width="100%" />
+  <img src="./banner.jpeg" alt="Saeda Yeasmin Banner width="100%" />
 </p>
 
 - 👋 Hi, I’m @saedamim
