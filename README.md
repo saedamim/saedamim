@@ -5,6 +5,9 @@
 <h1 align="center">Hi 👋, I'm Saeda Yeasmin</h1>
 <h3 align="center">A aspiring web developer from Bangladesh</h3>
 
+<h3 align="left">## 🚀 About Me</h3>
+<p align="left">I'm a passionate web developer who enjoys building responsive, user-friendly web applications. Currently, I'm improving my frontend development skills and exploring modern web technologies.</p>
+
 - 🔭 I’m currently working on **react.js**
 
 - 🌱 I’m currently learning **taliwind css,react.js etc**
