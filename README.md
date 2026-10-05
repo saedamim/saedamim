@@ -73,18 +73,6 @@ I am continuously improving my skills in React, TypeScript, Next.js, and modern 
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saedamim\&theme=github-dark\&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
 ### 💡 "Learning, building, and improving every day."
 
 Thanks for visiting my profile! 🚀
